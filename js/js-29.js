@@ -20,8 +20,6 @@ function getShippingCost(country) {
           break;
   
       default:
-          message='Извините, в вашу страну доставки нет';
-          break;
   }
   console.log(message);
     // Пиши код выше этой строки
